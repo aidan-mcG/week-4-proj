@@ -1,0 +1,2 @@
+Each variable in the new data table is the mean of either the mean or standard deviation of a variable in the original data. 
+Each row is a subject and activity pair
